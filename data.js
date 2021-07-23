@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-3d-room-17901",
-      "name": "3D room 17901",
+      "name": "3D room",
       "levels": [
         {
           "tileSize": 256,
