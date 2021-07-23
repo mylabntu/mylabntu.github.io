@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": -0.227928865606998,
           "pitch": 0.07832811076373503,
           "title": "Noah's bed",
-           "text": "<a href='www.google.com'>Your fate</a>"
+           "text": "<a href='http://www.google.com'>This is a link</a>"
         },
         {
           "yaw": 2.1195491911555013,
